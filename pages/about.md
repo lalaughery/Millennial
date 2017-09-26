@@ -3,4 +3,16 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2017-01-01-Welcome-to-Millennial %}).
+# Education
+## Purdue University
+### Ph.D., Civil Engineering, 2016 (structural emphasis)
+Thesis: Response of High-Strength Steel Reinforced Concrete Structures to Simulated Earthquakes
+Committee: Santiago Pujol (advisor), Mete Sozen, Michael Kreger, Robert Nowack
+### M.S.,  Civil Engineering, 2013 (structural emphasis)
+
+## Missouri University of Science and Technology
+### B.S., Architectural Engineering,
+### B.S., Civil Engineering, 2012
+
+## Hong Kong University of Science and Technology
+### Exchange Student, Spring 2010
