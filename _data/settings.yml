@@ -8,7 +8,7 @@ disqus:
 
 menu:
 - {name: 'About', file: 'about.html'}
-- {name: 'Curriculum Vitae', file: 'CV.md'}
+- {name: 'Curriculum Vitae', file: 'CV.html'}
 - {name: 'Resources', file: 'resources.html'}
 
 social:
