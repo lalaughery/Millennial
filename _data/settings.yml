@@ -8,8 +8,8 @@ disqus:
 
 menu:
 - {name: 'About', file: 'about.html'}
-- {name: 'Curriculum Vitae', file: 'CV.html'}
-- {name: 'Tutorials', file: 'resources.html'}
+- {name: 'Curriculum Vitae', file: 'CV.md'}
+- {name: 'Resources', file: 'resources.html'}
 
 social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/lucas-laughery-a091b149/'}
