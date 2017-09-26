@@ -1,5 +1,4 @@
-title:  "Millennial"
-tagline: "a Jekyll theme"
+title:  "Lucas Laughery"
 description:
 
 # Change to true for Disqus comments
@@ -8,9 +7,9 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
-- {name: 'Tutorials', file: 'resources.html'}
 - {name: 'About', file: 'about.html'}
 - {name: 'Curriculum Vitae', file: 'CV.html'}
+- {name: 'Tutorials', file: 'resources.html'}
 - {name: 'Contact', file: 'contact.html'}
 
 social:
