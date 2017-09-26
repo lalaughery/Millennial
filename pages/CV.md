@@ -50,16 +50,14 @@ R2. Suzuki, T., Laughery, L., Pujol, S. (2017). “Learning from the Japanese Ex
 R3. Takahashi, S., Hotta, K., Hirosawa, M., Ichinose, T., Maeda, M., Laughery, L., and Pujol, S. (2017), “Unintended Consequences of a Strengthening Technique Used in Japan.” 21 pp.
 
 ## Presentations
-  P1. Laughery, L., Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.<br>
-  P2. Laughery, L., and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering, Santiago, Chile. January 13, 2017.<br>
-  P3. Burniske, A., Laughery, L., and Yih, Y. (2016), “Innovation for International Development (I2D) Lab Projects,” World Bank Global Facility for Disaster Reduction and Recovery Delegates Visit, Indianapolis, IN. December 14, 2016.<br>
-  P4. Laughery, L., and Pujol, S. (2016), “Managing Bridge Data using DataHub,” Bridging Big Data Workshop, Omaha, NE. November 30, 2016.<br>
-  P5. Laughery, L., and Pujol, S. (2016), “Response of High-Strength Steel Reinforced Concrete Frames to Simulated Earthquakes,” ACI Spring Convention, Milwaukee, WI. April 18, 2016.<br>
-  P6. Laughery, L. and Pujol, S. (2015), “Shake Table Tests of High-Strength Steel Reinforced Concrete Frames,” Poster, ACI Spring Convention, Kansas City, MO. April 13, 2015.<br>
-  P7. Choi, J-H., Shen, C., Laughery, L., Smith, A. (2012), “Climate-responsive adaptive control for natural ventilation,” EPA P3 National Sustainable Design Expo, Washington, DC. April 21-23, 2012.<br>
-
 <div><table cellspacing="0" cellpadding="0">
-  <tr><td>P1.</td><td>Laughery</td></tr>
+  <tr><td>P1. </td><td>Laughery, L., Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.</td></tr>
+  <tr><td>P2. </td><td>Laughery, L., and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering, Santiago, Chile. January 13, 2017.</td></tr>
+  <tr><td>P3. </td><td>Burniske, A., Laughery, L., and Yih, Y. (2016), “Innovation for International Development (I2D) Lab Projects,” World Bank Global Facility for Disaster Reduction and Recovery Delegates Visit, Indianapolis, IN. December 14, 2016.</td></tr>
+  <tr><td>P4. </td><td>Laughery, L., and Pujol, S. (2016), “Managing Bridge Data using DataHub,” Bridging Big Data Workshop, Omaha, NE. November 30, 2016.</td></tr>
+  <tr><td>P5. </td><td>Laughery, L., and Pujol, S. (2016), “Response of High-Strength Steel Reinforced Concrete Frames to Simulated Earthquakes,” ACI Spring Convention, Milwaukee, WI. April 18, 2016.</td></tr>
+  <tr><td>P6. </td><td>Laughery, L. and Pujol, S. (2015), “Shake Table Tests of High-Strength Steel Reinforced Concrete Frames,” Poster, ACI Spring Convention, Kansas City, MO. April 13, 2015.</td></tr>
+  <tr><td>P7. </td><td>Choi, J-H., Shen, C., Laughery, L., Smith, A. (2012), “Climate-responsive adaptive control for natural ventilation,” EPA P3 National Sustainable Design Expo, Washington, DC. April 21-23, 2012.</td></tr>
 </table></div>
 
 ## Professional Affiliations
