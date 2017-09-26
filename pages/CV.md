@@ -16,7 +16,7 @@ title: "Curriculum Vitae"
 ### Hong Kong University of Science and Technology
 ▪ Exchange Student, Spring 2010
 
-
+<br>
 ## Employment History
 ▪ Visiting Researcher – Nagoya Institute of Technology, Nov. 2017-2018<br>
 ▪ Post-Doctoral Researcher – Purdue University, 2016-2017<br>
@@ -26,6 +26,7 @@ title: "Curriculum Vitae"
 ▪	Structural Engineering Intern – Black & Veatch, summer 2011 & 2012<br>
 ▪	Drafting Technician – Wallace Architects, LLC, summer 2009 & 2010<br>
 
+<br>
 ## Grants
 ### Awarded:
 G1. “Creating a Digital Environment for Enabling Data-Driven Science (DEEDS).” Senior Personnel. 
@@ -33,6 +34,7 @@ National Science Foundation #1724728. 2017-2021.<br>
 G2. “Dynamic Tests of Stone Masonry Walls with Earth Mortar.” Co-Principal Investigator.
 Catholic Relief Services. 2016-2017.
 
+<br>
 ## Publications
 ### Accepted:
 A1. **Laughery, L.**, and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering. Paper No. 1234. 9 pp.<br>
@@ -49,6 +51,7 @@ R1. **Laughery, L.**, and Pujol, S. (2017), “Drift Demands in Reinforced Concr
 R2. Suzuki, T., **Laughery, L.**, Pujol, S. (2017). “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” 30 pp.<br>
 R3. Takahashi, S., Hotta, K., Hirosawa, M., Ichinose, T., Maeda, M., **Laughery, L.**, and Pujol, S. (2017), “Unintended Consequences of a Strengthening Technique Used in Japan.” 21 pp.
 
+<br>
 ## Presentations
 P1. **Laughery, L.**, Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.  <br>
 P2. **Laughery, L.**, and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering, Santiago, Chile. January 13, 2017.<br>
@@ -56,9 +59,9 @@ P3. Burniske, A., **Laughery, L.**, and Yih, Y. (2016), “Innovation for Intern
 P4. **Laughery, L.**, and Pujol, S. (2016), “Managing Bridge Data using DataHub,” Bridging Big Data Workshop, Omaha, NE. November 30, 2016. <br>
 P5. **Laughery, L.**, and Pujol, S. (2016), “Response of High-Strength Steel Reinforced Concrete Frames to Simulated Earthquakes,” ACI Spring Convention, Milwaukee, WI. April 18, 2016.<br>
 P6. **Laughery, L.** and Pujol, S. (2015), “Shake Table Tests of High-Strength Steel Reinforced Concrete Frames,” Poster, ACI Spring Convention, Kansas City, MO. April 13, 2015.<br> 
-P7. Choi, J-H., Shen, C., **Laughery, L.**, Smith, A. (2012), “Climate-responsive adaptive control for natural ventilation,” EPA P3 National Sustainable Design Expo, Washington, DC. April 21-23, 2012. <br>
+P7. Choi, J-H., Shen, C., **Laughery, L.**, Smith, A. (2012), “Climate-responsive adaptive control for natural ventilation,” EPA P3 National Sustainable Design Expo, Washington, DC. April 21-23, 2012. 
 
-
+<br>
 ## Professional Affiliations
 ### American Concrete Institute
 ▪ Committee 133: Disaster Reconnaissance, Associate Member (since 2016)<br>
@@ -68,9 +71,11 @@ P7. Choi, J-H., Shen, C., **Laughery, L.**, Smith, A. (2012), “Climate-respons
 ▪ Young Members Committee (since 2016)<br> 
 ▪ Student Leadership Council (2014-2016)
 
+<br>
 ## Software Skills
 MATLAB, AutoCAD, OpenSees, MathCAD, LabVIEW, OriginPro, SAP2000, RISA
 
+<br>
 ## Research Experience
 ### Laboratory
 ▪ Static and dynamic testing of reinforced concrete structures<br>
@@ -86,7 +91,7 @@ MATLAB, AutoCAD, OpenSees, MathCAD, LabVIEW, OriginPro, SAP2000, RISA
 ▪ DataHub:	Worked with a team of engineers, computer scientists, and library scientists to develop, test, and promote an online platform for preserving and sharing engineering data and other scientific data (datacenterhub.org, NSF #1443027).<br>
 ▪ Network for Earthquake Engineering Simulation:  Reviewed projects seeking curation for completeness and helped handle IT support tickets (nees.org, NSF #0927178)
 
-
+<br>
 ## Teaching & Mentoring Experience
 ### Reinforced Concrete Design I
 Fall 2016 & Spring 2017: Prepared and presented four lectures for a class of 30-40 undergraduate students on the topics of flexural response, reinforcement limits, and axial-flexure interaction.
@@ -97,7 +102,6 @@ Guided undergraduate student in creating a database of strong ground motions.
 ### Summer Undergraduate Research Fellowship (SURF), Mentor, 2015 & 2016.
 
 <br>
-
 ## Professional Development
 ### Effective Teaching Workshop, Feb 28 - Mar 1, 2017
 Participated in a workshop that provided tools and strategies for creating course syllabi, defining learning objectives, assessing learning styles, and better engaging students in the classroom. The workshop was hosted by Dr. Richard Felder, Hoechst Celanese Professor Emeritus of Chemical Engineering at North Carolina State University, and Dr. Rebecca Brent, President of Education Designs, Inc.
@@ -105,7 +109,7 @@ Participated in a workshop that provided tools and strategies for creating cours
 ### Understanding Proposal Budgets Workshop, Sep 26, 2016
 Participated in a workshop that covered how to break down a sample budget, how to handle budgets with partners and subcontracts, defining F&A, and evaluating cost shared requirements.
 
-
+<br>
 ## Awards
 ### Purdue University
 ▪ Andrews Fellowship, 2012-2016<br>
