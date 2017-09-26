@@ -1,18 +1,6 @@
 ---
-layout: misc
+layout: post
 title: About
 ---
 
-# Education
-## Purdue University
-### Ph.D., Civil Engineering, 2016 (structural emphasis)
-Thesis: Response of High-Strength Steel Reinforced Concrete Structures to Simulated Earthquakes
-Committee: Santiago Pujol (advisor), Mete Sozen, Michael Kreger, Robert Nowack
-### M.S.,  Civil Engineering, 2013 (structural emphasis)
-
-## Missouri University of Science and Technology
-### B.S., Architectural Engineering,
-### B.S., Civil Engineering, 2012
-
-## Hong Kong University of Science and Technology
-### Exchange Student, Spring 2010
+Dr. Lucas Laughery is a Postdoctoral Researcher in the Lyles School of Civil Engineering at Purdue University. He received dual B.S. degrees in architectural and civil engineering from Missouri University of Science and Technology in 2012, and M.S. and Ph.D. degrees in civil engineering with a structural focus from Purdue University in 2013 and 2016. Dr. Laughery’s research interests are the behavior of reinforced concrete structures and the response of structures to extreme demands. He has more than five years of experience conducting large-scale tests of reinforced concrete structures. He also has worked for more than two years in research data curation and management, first with the Network for Earthquake Engineering Simulation (NEES), and currently with DataHub (datacenterhub.org). In March 2016, he was a member of a team that conducted post-earthquake reconnaissance in southern Taiwan; later, he provided training and logistic support for a team deployed to Ecuador for a similar reconnaissance mission. Currently, Dr. Laughery is co-PI on a project investigating improvements to stone-earth masonry in rural areas of Southeast Asia, and is assisting with a project about development length and lap splices in structural walls.
