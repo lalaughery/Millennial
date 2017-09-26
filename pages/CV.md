@@ -1,4 +1,7 @@
-# Curriculum Vitae
+---
+layout: default
+title: "Curriculum Vitae"
+---
 
 ## Education
 ### Purdue University
