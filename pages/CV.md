@@ -6,15 +6,15 @@ title: "Curriculum Vitae"
 ## Education
 ### Purdue University
 ▪ Ph.D., Civil Engineering, 2016 (structural emphasis)<br>
- Thesis: Response of High-Strength Steel Reinforced Concrete Structures to Simulated Earthquakes<br>
- Committee: Santiago Pujol (advisor), Mete Sozen, Michael Kreger, Robert Nowack<br>
+ &nbsp Thesis: Response of High-Strength Steel Reinforced Concrete Structures to Simulated Earthquakes<br>
+ &nbsp Committee: Santiago Pujol (advisor), Mete Sozen, Michael Kreger, Robert Nowack<br>
 ▪ M.S., Civil Engineering, 2013 (structural emphasis)<br>
 
 ### Missouri University of Science and Technology
-▪  B.S., Architectural Engineering, 2012<br>
-▪  B.S., Civil Engineering, 2012
+▪ B.S., Architectural Engineering, 2012<br>
+▪ B.S., Civil Engineering, 2012
 ### Hong Kong University of Science and Technology
-* Exchange Student, Spring 2010
+▪ Exchange Student, Spring 2010
 
 
 ## Employment History
@@ -60,11 +60,11 @@ P7. Choi, J-H., Shen, C., Laughery, L., Smith, A. (2012), “Climate-responsive 
 
 ## Professional Affiliations
 ### American Concrete Institute
-▪ Committee 133: Disaster Reconnaissance, Associate Member (since 2016)
+▪ Committee 133: Disaster Reconnaissance, Associate Member (since 2016)<br>
 ▪ Committee 123: Research and Current Developments (since 2017)
 
 ### Earthquake Engineering Research Institute
-▪ Young Members Committee (since 2016) 
+▪ Young Members Committee (since 2016)<br> 
 ▪ Student Leadership Council (2014-2016)
 
 ## Software Skills
@@ -72,11 +72,11 @@ MATLAB, AutoCAD, OpenSees, MathCAD, LabVIEW, OriginPro, SAP2000, RISA
 
 ## Research Experience
 ### Laboratory
-▪ Static and dynamic testing of reinforced concrete structures
-▪ Construction of test specimens and setups, including use of hydraulic jacks, actuators, universal testing machines, earthquake simulator
-▪ Instrumentation of setups using accelerometers, optical trackers, displacement transducers, potentiometers, load cells, pressure transducers
-▪ Nonlinear numerical modeling of structures
-▪ Creation and analysis of databases
+▪ Static and dynamic testing of reinforced concrete structures<br>
+▪ Construction of test specimens and setups, including use of hydraulic jacks, actuators, universal testing machines, earthquake simulator<br>
+▪ Instrumentation of setups using accelerometers, optical trackers, displacement transducers, potentiometers, load cells, pressure transducers<br>
+▪ Nonlinear numerical modeling of structures<br>
+▪ Creation and analysis of databases<br>
 
 ### Field
 ▪ Post-earthquake building reconnaissance (Taiwan, 2016; helped train team for Ecuador, 2016)
@@ -110,6 +110,7 @@ Participated in a workshop that covered how to break down a sample budget, how t
 
 ### Missouri S&T
 ▪ Chancellor's Scholarship, 2011
+<br>
 
 ## Outreach & Involvement
 ### Earthquake Engineering Research Institute (EERI)
