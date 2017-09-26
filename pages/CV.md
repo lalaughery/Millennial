@@ -6,8 +6,8 @@ title: "Curriculum Vitae"
 ## Education
 ### Purdue University
 ▪ Ph.D., Civil Engineering, 2016 (structural emphasis)<br>
- &nbsp Thesis: Response of High-Strength Steel Reinforced Concrete Structures to Simulated Earthquakes<br>
- &nbsp Committee: Santiago Pujol (advisor), Mete Sozen, Michael Kreger, Robert Nowack<br>
+-- Thesis: Response of High-Strength Steel Reinforced Concrete Structures to Simulated Earthquakes<br>
+-- Committee: Santiago Pujol (advisor), Mete Sozen, Michael Kreger, Robert Nowack<br>
 ▪ M.S., Civil Engineering, 2013 (structural emphasis)<br>
 
 ### Missouri University of Science and Technology
@@ -50,7 +50,7 @@ R2. Suzuki, T., Laughery, L., Pujol, S. (2017). “Learning from the Japanese Ex
 R3. Takahashi, S., Hotta, K., Hirosawa, M., Ichinose, T., Maeda, M., Laughery, L., and Pujol, S. (2017), “Unintended Consequences of a Strengthening Technique Used in Japan.” 21 pp.
 
 ## Presentations
-P1. Laughery, L., Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.<br>
+<div>P1. Laughery, L., Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.</div><br>
 P2. Laughery, L., and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering, Santiago, Chile. January 13, 2017.<br>
 P3. Burniske, A., Laughery, L., and Yih, Y. (2016), “Innovation for International Development (I2D) Lab Projects,” World Bank Global Facility for Disaster Reduction and Recovery Delegates Visit, Indianapolis, IN. December 14, 2016.<br>
 P4. Laughery, L., and Pujol, S. (2016), “Managing Bridge Data using DataHub,” Bridging Big Data Workshop, Omaha, NE. November 30, 2016. Invited talk.<br>
