@@ -50,13 +50,14 @@ R2. Suzuki, T., Laughery, L., Pujol, S. (2017). “Learning from the Japanese Ex
 R3. Takahashi, S., Hotta, K., Hirosawa, M., Ichinose, T., Maeda, M., Laughery, L., and Pujol, S. (2017), “Unintended Consequences of a Strengthening Technique Used in Japan.” 21 pp.
 
 ## Presentations
-<div>P1. Laughery, L., Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.</div><br>
-P2. Laughery, L., and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering, Santiago, Chile. January 13, 2017.<br>
+<div>
+  <ls>P1. Laughery, L., Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.</ls>
+  <ls>P2. Laughery, L., and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering, Santiago, Chile. January 13, 2017.</ls>
 P3. Burniske, A., Laughery, L., and Yih, Y. (2016), “Innovation for International Development (I2D) Lab Projects,” World Bank Global Facility for Disaster Reduction and Recovery Delegates Visit, Indianapolis, IN. December 14, 2016.<br>
 P4. Laughery, L., and Pujol, S. (2016), “Managing Bridge Data using DataHub,” Bridging Big Data Workshop, Omaha, NE. November 30, 2016. Invited talk.<br>
 P5. Laughery, L., and Pujol, S. (2016), “Response of High-Strength Steel Reinforced Concrete Frames to Simulated Earthquakes,” ACI Spring Convention, Milwaukee, WI. April 18, 2016.<br>
 P6. Laughery, L. and Pujol, S. (2015), “Shake Table Tests of High-Strength Steel Reinforced Concrete Frames,” Poster, ACI Spring Convention, Kansas City, MO. April 13, 2015.<br> 
-P7. Choi, J-H., Shen, C., Laughery, L., Smith, A. (2012), “Climate-responsive adaptive control for natural ventilation,” EPA P3 National Sustainable Design Expo, Washington, DC. April 21-23, 2012. 
+P7. Choi, J-H., Shen, C., Laughery, L., Smith, A. (2012), “Climate-responsive adaptive control for natural ventilation,” EPA P3 National Sustainable Design Expo, Washington, DC. April 21-23, 2012.</div> 
 
 ## Professional Affiliations
 ### American Concrete Institute
@@ -115,5 +116,5 @@ Participated in a workshop that covered how to break down a sample budget, how t
 ## Outreach & Involvement
 ### Earthquake Engineering Research Institute (EERI)
 ▪ Prepared and presented earthquake engineering lecture to high school students. Led activity in which students built and tested structures on miniature shake table.<br>
-▪ Civil Engineering Open House:  Gave interactive demonstrations about earthquake engineering to prospective undergraduate students.
+▪ Civil Engineering Open House:  Gave interactive demonstrations about earthquake engineering to prospective undergraduate students.<br>
 ▪	Workshop:  Planned a workshop to train students to use SAP2000.
