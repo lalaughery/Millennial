@@ -50,7 +50,7 @@ R2. Suzuki, T., Laughery, L., Pujol, S. (2017). “Learning from the Japanese Ex
 R3. Takahashi, S., Hotta, K., Hirosawa, M., Ichinose, T., Maeda, M., Laughery, L., and Pujol, S. (2017), “Unintended Consequences of a Strengthening Technique Used in Japan.” 21 pp.
 
 ## Presentations
-P1. Laughery, L., Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.  <br><br>
+P1. Laughery, L., Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.  <br>
 P2. Laughery, L., and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering, Santiago, Chile. January 13, 2017.<br>
 P3. Burniske, A., Laughery, L., and Yih, Y. (2016), “Innovation for International Development (I2D) Lab Projects,” World Bank Global Facility for Disaster Reduction and Recovery Delegates Visit, Indianapolis, IN. December 14, 2016.<br>
 P4. Laughery, L., and Pujol, S. (2016), “Managing Bridge Data using DataHub,” Bridging Big Data Workshop, Omaha, NE. November 30, 2016. <br>
@@ -89,11 +89,14 @@ MATLAB, AutoCAD, OpenSees, MathCAD, LabVIEW, OriginPro, SAP2000, RISA
 
 ## Teaching & Mentoring Experience
 ### Reinforced Concrete Design I
-▪ Fall 2016 & Spring 2017: Prepared and presented four lectures for a class of 30-40 undergraduate students on the topics of flexural response, reinforcement limits, and axial-flexure interaction.
+Fall 2016 & Spring 2017: Prepared and presented four lectures for a class of 30-40 undergraduate students on the topics of flexural response, reinforcement limits, and axial-flexure interaction.
 
 ### Undergraduate Research Experience Program - Colombia (UREP-C), Mentor, 2015.
+Guided undergraduate student in creating a database of strong ground motions.
+
 ### Summer Undergraduate Research Fellowship (SURF), Mentor, 2015 & 2016.
-### Bowen Laboratory, 2012-2017, Mentored students in 
+
+<br>
 
 ## Professional Development
 ### Effective Teaching Workshop, Feb 28 - Mar 1, 2017
