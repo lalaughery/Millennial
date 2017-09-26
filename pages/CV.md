@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: misc
 title: "Curriculum Vitae"
 ---
 
@@ -35,28 +35,28 @@ Catholic Relief Services. 2016-2017.
 
 ## Publications
 ### Accepted:
-A1. Laughery, L., and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering. Paper No. 1234. 9 pp.<br>
-A2. Laughery, L. (2016), “Response of High-Strength Steel Reinforced Concrete Structures to Simulated Earthquakes,” Ph.D. Thesis. Purdue University. 291 pp.<br>
-A3. Laughery, L., and Pujol, S. (2015), “Compressive Strength of Unreinforced Struts,” ACI Structural Journal, V. 112, No. 5, Sept.-Oct., pp. 617-624. doi: 10.14359/51687711.<br>
-A4. Catlin, A.C., Nadungodage, C.H., Pujol, S., Laughery, L., Sim, C., Puranam, A. (2017), “A Cyber Platform for Sharing Scientific Research Data at DataCenterHub,” IEEE: Computing in Science and 
+A1. **Laughery, L.**, and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering. Paper No. 1234. 9 pp.<br>
+A2. **Laughery, L.** (2016), “Response of High-Strength Steel Reinforced Concrete Structures to Simulated Earthquakes,” Ph.D. Thesis. Purdue University. 291 pp.<br>
+A3. **Laughery, L.**, and Pujol, S. (2015), “Compressive Strength of Unreinforced Struts,” ACI Structural Journal, V. 112, No. 5, Sept.-Oct., pp. 617-624. doi: 10.14359/51687711.<br>
+A4. Catlin, A.C., Nadungodage, C.H., Pujol, S., **Laughery, L.**, Sim, C., Puranam, A. (2017), “A Cyber Platform for Sharing Scientific Research Data at DataCenterHub,” IEEE: Computing in Science and 
 Engineering. 15 pp.
 ### Submitted:
-S1. Klaboe, K., Pujol, S., and Laughery, L. (2017), “The Seismic Response of Rocking Blocks,”
+S1. Klaboe, K., Pujol, S., and **Laughery, L.** (2017), “The Seismic Response of Rocking Blocks,”
 Submitted to: EERI Earthquake Spectra. 13 pp. <br>
-S2. Pujol, S., Laughery, L., Puranam, A., Hesam, P., Cheng, L-H, Lund, A., Irfanoglu, I. (2017), “Evaluation of Seismic Vulnerability Indices Including Data from the 6 February 2016 Taiwan Earthquake. Submitted to: ASCE Journal of Performance of Constructed Facilities. 21 pp.
+S2. Pujol, S., **Laughery, L.**, Puranam, A., Hesam, P., Cheng, L-H, Lund, A., Irfanoglu, I. (2017), “Evaluation of Seismic Vulnerability Indices Including Data from the 6 February 2016 Taiwan Earthquake. Submitted to: ASCE Journal of Performance of Constructed Facilities. 21 pp.
 ### In Revision / Preparation: 
-R1. Laughery, L., and Pujol, S. (2017), “Drift Demands in Reinforced Concrete Structures Subjected to Strong Ground Motions.” 16 pp. Submitted to: ACI Structural Journal.<br>
-R2. Suzuki, T., Laughery, L., Pujol, S. (2017). “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” 30 pp.<br>
-R3. Takahashi, S., Hotta, K., Hirosawa, M., Ichinose, T., Maeda, M., Laughery, L., and Pujol, S. (2017), “Unintended Consequences of a Strengthening Technique Used in Japan.” 21 pp.
+R1. **Laughery, L.**, and Pujol, S. (2017), “Drift Demands in Reinforced Concrete Structures Subjected to Strong Ground Motions.” 16 pp. Submitted to: ACI Structural Journal.<br>
+R2. Suzuki, T., **Laughery, L.**, Pujol, S. (2017). “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” 30 pp.<br>
+R3. Takahashi, S., Hotta, K., Hirosawa, M., Ichinose, T., Maeda, M., **Laughery, L.**, and Pujol, S. (2017), “Unintended Consequences of a Strengthening Technique Used in Japan.” 21 pp.
 
 ## Presentations
-P1. Laughery, L., Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.  <br>
-P2. Laughery, L., and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering, Santiago, Chile. January 13, 2017.<br>
-P3. Burniske, A., Laughery, L., and Yih, Y. (2016), “Innovation for International Development (I2D) Lab Projects,” World Bank Global Facility for Disaster Reduction and Recovery Delegates Visit, Indianapolis, IN. December 14, 2016.<br>
-P4. Laughery, L., and Pujol, S. (2016), “Managing Bridge Data using DataHub,” Bridging Big Data Workshop, Omaha, NE. November 30, 2016. <br>
-P5. Laughery, L., and Pujol, S. (2016), “Response of High-Strength Steel Reinforced Concrete Frames to Simulated Earthquakes,” ACI Spring Convention, Milwaukee, WI. April 18, 2016.<br>
-P6. Laughery, L. and Pujol, S. (2015), “Shake Table Tests of High-Strength Steel Reinforced Concrete Frames,” Poster, ACI Spring Convention, Kansas City, MO. April 13, 2015.<br> 
-P7. Choi, J-H., Shen, C., Laughery, L., Smith, A. (2012), “Climate-responsive adaptive control for natural ventilation,” EPA P3 National Sustainable Design Expo, Washington, DC. April 21-23, 2012. <br>
+P1. **Laughery, L.**, Suzuki, T., and Pujol, S. (2017), “Learning from the Japanese Experience with High-Strength Longitudinal Reinforcement.” ACI Spring Convention, Detroit, MI. March 28, 2017.  <br>
+P2. **Laughery, L.**, and Pujol, S. (2017), “Seismic Response of High-Strength Steel Reinforced Concrete Frames,” 16th World Conference on Earthquake Engineering, Santiago, Chile. January 13, 2017.<br>
+P3. Burniske, A., **Laughery, L.**, and Yih, Y. (2016), “Innovation for International Development (I2D) Lab Projects,” World Bank Global Facility for Disaster Reduction and Recovery Delegates Visit, Indianapolis, IN. December 14, 2016.<br>
+P4. **Laughery, L.**, and Pujol, S. (2016), “Managing Bridge Data using DataHub,” Bridging Big Data Workshop, Omaha, NE. November 30, 2016. <br>
+P5. **Laughery, L.**, and Pujol, S. (2016), “Response of High-Strength Steel Reinforced Concrete Frames to Simulated Earthquakes,” ACI Spring Convention, Milwaukee, WI. April 18, 2016.<br>
+P6. **Laughery, L.** and Pujol, S. (2015), “Shake Table Tests of High-Strength Steel Reinforced Concrete Frames,” Poster, ACI Spring Convention, Kansas City, MO. April 13, 2015.<br> 
+P7. Choi, J-H., Shen, C., **Laughery, L.**, Smith, A. (2012), “Climate-responsive adaptive control for natural ventilation,” EPA P3 National Sustainable Design Expo, Washington, DC. April 21-23, 2012. <br>
 
 
 ## Professional Affiliations
@@ -121,3 +121,5 @@ Participated in a workshop that covered how to break down a sample budget, how t
 ▪ Prepared and presented earthquake engineering lecture to high school students. Led activity in which students built and tested structures on miniature shake table.<br>
 ▪ Civil Engineering Open House:  Gave interactive demonstrations about earthquake engineering to prospective undergraduate students.<br>
 ▪	Workshop:  Planned a workshop to train students to use SAP2000.
+
+--Last Updated 2017-09-26--
