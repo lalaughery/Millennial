@@ -10,6 +10,7 @@ menu:
 - {name: 'About', file: 'about.html'}
 - {name: 'Curriculum Vitae', file: 'CV.html'}
 - {name: 'Resources', file: 'resources.html'}
+- {name: 'News', file: 'news.html'}
 
 social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/lucas-laughery-a091b149/'}
